@@ -1,120 +1,206 @@
-🎬 Roblox Town Director
 
-Turn Roblox ideas into cinematic stories.
+# 🎬 Roblox Town Director
 
-Roblox Town Director is a universal AI Agent Skill for developing Roblox town stories, directing scenes, planning shots, and organizing production workflows.
+### From a simple idea to a cinematic Roblox story.
 
-From the first story idea to the final editing plan, it helps creators make better storytelling decisions while respecting the actual capabilities of their tools and production setup.
+A universal AI Agent Skill for Roblox town storytelling, creative direction, filming, animation planning, editing, and production.
 
-<p align="center">"Version" (https://img.shields.io/badge/version-0.1.1-blue)
-"License" (https://img.shields.io/badge/license-MIT-green)
-"Status" (https://img.shields.io/badge/status-prototype-orange)
-"Platform" (https://img.shields.io/badge/platform-independent-lightgrey)
+Turn ideas into structured stories, direct scenes with purpose, and build realistic production plans around the tools you actually have.
 
-</p>---
+![Version](https://img.shields.io/badge/version-0.1.1-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-prototype-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-independent-lightgrey?style=for-the-badge)
 
-✨ What can it do?
+---
 
-- Story development: Build concepts, hooks, conflict, character motivation, and satisfying endings.
-- Scriptwriting: Turn ideas into structured, production-ready scripts.
-- Cinematic direction: Plan camera angles, framing, movement, composition, and visual storytelling.
-- Scene planning: Create shot lists, scene breakdowns, and continuity notes.
-- Production planning: Choose realistic methods based on available tools and capabilities.
-- Editing direction: Plan pacing, transitions, sound design, and final packaging.
-- Quality control: Evaluate creative strength and production feasibility separately.
+## ✦ What is Roblox Town Director?
 
-🎥 Three production methods
+Roblox Town Director is an AI Agent Skill designed to act as a creative director and production planner for Roblox town stories.
 
-The Director distinguishes between three ways of creating Roblox stories.
+It helps creators move through the complete storytelling process:
 
-Method| Description
-Live Gameplay Staging| Film scenes using available Roblox gameplay and avatars.
-Custom Roblox Animation| Use custom rigs, animation systems, or external animation workflows.
-Hybrid Production| Combine Roblox footage with external visuals, overlays, or editing.
+**IDEA → STORY → SCRIPT → DIRECTION → PRODUCTION → EDITING → REVIEW**
 
-The skill does not assume that every visual effect or action is possible in ordinary gameplay.
+It focuses on two things:
 
-🧭 The production workflow
+- Making the story worth watching.
+- Making the production plan achievable.
 
-The skill uses a 12-stage workflow, from creative development to final quality control.
+It does not assume that every visual effect, animation, or gameplay action is possible in ordinary Roblox gameplay.
 
-A → L
+## 🎥 Production Methods
 
-1. Concept development
-2. Story architecture
-3. Character development
-4. Scriptwriting
-5. Visual direction
-6. Scene breakdown
-7. Shot planning
-8. Production method
-9. Production execution planning
-10. Editing and sound
-11. Packaging
-12. Final quality control
+Three production approaches are supported.
 
-The workflow is adaptable. Simple requests do not need every stage.
+### 01 — Live Gameplay Staging
 
-🎛️ Six operating modes
+Build scenes using available Roblox environments, avatars, gameplay actions, and camera positioning.
 
-Mode| Purpose
-"IDEA"| Develop and evaluate concepts.
-"SCRIPT"| Build or improve a story script.
-"SHOOT"| Plan filming, scenes, and shots.
-"POST"| Direct editing, sound, and packaging.
-"REVIEW"| Critically evaluate existing work.
-"FULL"| Guide a complete production workflow.
+Best suited for:
+- Roleplay storytelling
+- Dialogue scenes
+- Simple action sequences
+- Solo or multiplayer filming
 
-🚀 Quickstart
+### 02 — Custom Roblox Animation
 
-Step 1 — Get the skill
+Use custom rigs, animation systems, and suitable external production tools when ordinary gameplay cannot deliver the required result.
 
-Download or clone this repository.
+Best suited for:
+- Complex character movement
+- Custom facial animation
+- Controlled camera sequences
+- Specialized visual effects
+
+### 03 — Hybrid Production
+
+Combine Roblox footage with external visuals, overlays, compositing, and editing.
+
+Best suited for:
+- Cinematic storytelling
+- Suspense and horror
+- Visual effects
+- More controlled presentation
+
+The Director identifies the appropriate approach instead of pretending all three methods have identical capabilities.
+
+---
+
+## 🎬 The Director's Workflow
+
+A flexible 12-stage production framework.
+
+| Stage | Production Area |
+|---|---|
+| A | Concept Development |
+| B | Story Architecture |
+| C | Character Development |
+| D | Scriptwriting |
+| E | Visual Direction |
+| F | Scene Breakdown |
+| G | Shot Planning |
+| H | Production Method |
+| I | Production Execution Planning |
+| J | Editing and Sound |
+| K | Packaging |
+| L | Final Quality Control |
+
+The workflow adapts to the project. A simple Short does not need a full-length production plan.
+
+## 🎛️ Operating Modes
+
+| Mode | Function |
+|---|---|
+| `IDEA` | Develop and evaluate concepts |
+| `SCRIPT` | Write or improve scripts |
+| `SHOOT` | Plan scenes and filming |
+| `POST` | Direct editing and sound |
+| `REVIEW` | Critically evaluate existing work |
+| `FULL` | Guide a complete production |
+
+## 🧠 Quality Control
+
+Every project is evaluated through two independent gates.
+
+**Gate A — Story and Creative Quality**
+- Hook and audience interest
+- Character motivation
+- Conflict and escalation
+- Visual storytelling
+- Payoff and emotional impact
+
+**Gate B — Production Feasibility**
+- Available tools and capabilities
+- Scene complexity
+- Actor and camera requirements
+- Technical limitations
+- Practical alternatives
+
+Each gate receives one of three verdicts:
+
+- `STRONG`
+- `NEEDS WORK`
+- `FAIL`
+
+A strong story is not automatically a feasible production.
+
+---
+
+## 🚀 Quickstart
+
+### Step 1 — Get the repository
+
+Repository:
+
+https://github.com/lowlevelbtw/roblox-storytelling-skill
+
+Download the repository or clone it.
+
+### Step 2 — Install the skill
+
+Use an AI assistant that supports reading skill instructions and accessing the required files.
+
+Give your assistant this request:
+
+```text
+Help me install Roblox Town Director.
 
 Repository:
 https://github.com/lowlevelbtw/roblox-storytelling-skill
 
-Step 2 — Install it in your AI assistant
+Read:
+skills/roblox-town-director/SKILL.md
 
-Use an AI assistant that can read the skill files and follow Markdown-based instructions.
+Also inspect its supporting references, templates,
+examples, and evaluation suite.
 
-Give it this prompt:
+Explain the installation steps for this environment.
+Check available capabilities before promising execution.
+Do not invent Roblox features or tool capabilities.
+```
 
-Help me install and use Roblox Town Director.
+Follow the installation process supported by your AI assistant.
 
-Repository:
-https://github.com/lowlevelbtw/roblox-storytelling-skill
+### Step 3 — Try your first project
 
-Read the complete SKILL.md file and its supporting
-references, templates, examples, and evaluation suite.
+Example prompt:
 
-Explain any setup requirements and limitations.
-Do not claim capabilities that are not available
-in the current environment.
-
-Follow the installation process supported by your chosen AI assistant.
-
-Step 3 — Start creating
-
-Try:
-
+```text
 IDEA MODE
 
-Give me three original Roblox town storytelling
+Develop three original Roblox town storytelling
 concepts for a 60-second suspense Short.
 
-Evaluate the hook, escalation, payoff, and
-production feasibility.
+Evaluate each concept for:
+- Opening hook
+- Story escalation
+- Visual storytelling
+- Ending payoff
+- Production feasibility
 
-Or:
+Challenge weak concepts instead of praising them.
+```
 
+### Another example
+
+```text
 FULL MODE
 
-Help me develop a Roblox town mini-movie.
-Start by asking for the essential creative details.
+I want to create a Roblox town mini-movie.
 
-📂 Repository structure
+Help me develop the story, characters, script,
+visual direction, scenes, shots, production plan,
+editing approach, and final quality checks.
 
+Start by collecting only the essential details.
+```
+
+---
+
+## 📂 Project Structure
+
+```text
 roblox-storytelling-skill/
 │
 ├── README.md
@@ -131,59 +217,124 @@ roblox-storytelling-skill/
 │
 └── skills/
     └── roblox-town-director/
+        │
         ├── SKILL.md
+        │
         ├── references/
+        │   ├── storytelling.md
+        │   ├── cinematic-direction.md
+        │   ├── production-workflow.md
+        │   └── editing-and-packaging.md
+        │
         ├── templates/
+        │   ├── short-production-packet.md
+        │   └── mini-movie-outline.md
+        │
         ├── examples/
+        │   └── solo-short-example.md
+        │
         └── evaluations/
+            └── test-suite.md
+```
 
-📚 Documentation
+---
 
-- "Core Skill" (skills/roblox-town-director/SKILL.md)
-- "Storytelling Reference" (skills/roblox-town-director/references/storytelling.md)
-- "Cinematic Direction" (skills/roblox-town-director/references/cinematic-direction.md)
-- "Production Workflow" (skills/roblox-town-director/references/production-workflow.md)
-- "Editing and Packaging" (skills/roblox-town-director/references/editing-and-packaging.md)
-- "Short Production Packet" (skills/roblox-town-director/templates/short-production-packet.md)
-- "Mini-Movie Outline" (skills/roblox-town-director/templates/mini-movie-outline.md)
-- "Solo Short Example" (skills/roblox-town-director/examples/solo-short-example.md)
-- "Evaluation Test Suite" (skills/roblox-town-director/evaluations/test-suite.md)
+## 📚 Documentation
 
-🧪 Quality and validation
+### Core
 
-The project includes ten evaluation scenarios covering storytelling, creative direction, production feasibility, and different production situations.
+- [Main Skill Instructions](skills/roblox-town-director/SKILL.md)
 
-Current validation status: Evaluation tests have not yet been executed. Results will be documented after testing.
+### Creative References
 
-This is an early prototype. Actual results depend on the AI model, available tools, Roblox capabilities, and creator workflow.
+- [Storytelling](skills/roblox-town-director/references/storytelling.md)
+- [Cinematic Direction](skills/roblox-town-director/references/cinematic-direction.md)
+- [Production Workflow](skills/roblox-town-director/references/production-workflow.md)
+- [Editing and Packaging](skills/roblox-town-director/references/editing-and-packaging.md)
 
-🗺️ Roadmap
+### Production Templates
+
+- [Short Production Packet](skills/roblox-town-director/templates/short-production-packet.md)
+- [Mini-Movie Outline](skills/roblox-town-director/templates/mini-movie-outline.md)
+
+### Examples and Testing
+
+- [Solo Short Example](skills/roblox-town-director/examples/solo-short-example.md)
+- [Evaluation Test Suite](skills/roblox-town-director/evaluations/test-suite.md)
+
+### AI Assistant Integration Guides
+
+- [Google AI Studio](integrations/ai-studio.md)
+- [ChatGPT](integrations/chatgpt.md)
+- [Claude App](integrations/claude-app.md)
+- [Claude Code](integrations/claude-code.md)
+- [Codex](integrations/codex.md)
+- [Gemini CLI](integrations/gemini-cli.md)
+
+---
+
+## 🧪 Evaluation and Validation
+
+The project includes ten evaluation scenarios designed to test:
+
+- Creative judgment
+- Story development
+- Visual direction
+- Production-method selection
+- Hardware independence
+- Technical honesty
+- Practical production planning
+
+**Current status: NOT YET VALIDATED**
+
+The evaluation suite exists, but its tests have not yet been executed. Results will be documented after actual testing.
+
+---
+
+## 🗺️ Roadmap
+
+### Completed in the prototype
 
 - [x] Core skill architecture
 - [x] Three production methods
 - [x] Six operating modes
-- [x] Supporting references and templates
-- [x] Example production scenario
+- [x] Twelve-stage workflow
+- [x] Supporting references
+- [x] Production templates
+- [x] Example scenario
 - [x] Evaluation test suite
-- [ ] Execute and document all evaluation tests
-- [ ] Validate workflows across supported AI assistants
-- [ ] Improve documentation based on real-world testing
+
+### Planned
+
+- [ ] Execute all ten evaluation tests
+- [ ] Document evaluation results
+- [ ] Validate integrations with supported AI assistants
+- [ ] Improve the skill based on real production feedback
+- [ ] Add genuine production examples
 - [ ] Prepare stable v1.0.0 release
-
-🤝 Contributing
-
-Suggestions, improvements, documentation fixes, and evaluation scenarios are welcome.
-
-Please describe the problem, the proposed improvement, and how it can be tested.
-
-📜 License
-
-This project is licensed under the "MIT License" (LICENSE).
 
 ---
 
-<p align="center">Roblox Town Director
+## 🤝 Contributing
 
-Better stories. Clearer direction. More realistic production.
+Contributions, suggestions, documentation improvements, and new evaluation scenarios are welcome.
 
-</p>
+When proposing an improvement, explain:
+
+1. What problem it solves.
+2. What should change.
+3. How the improvement can be tested.
+
+---
+
+## 📜 License
+
+This project is released under the MIT License.
+
+See [LICENSE](LICENSE) for details.
+
+---
+
+### Roblox Town Director
+
+**Better stories. Clearer direction. Realistic production.**
