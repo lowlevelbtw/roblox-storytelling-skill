@@ -1,182 +1,44 @@
-Storytelling Reference
+# Storytelling, Character Craft, and Retention Guide
 
-1. The Core of a Strong Story
+Load during **Stages A–D** (`IDEA`, `SCRIPT`, `REVIEW`, `FULL`).
 
-Every story should have:
+## 1. Core Story Engine
 
-- Protagonist: Someone the audience can follow.
-- Want: A clear goal the protagonist is trying to achieve.
-- Obstacle: Something preventing that goal.
-- Stakes: A meaningful consequence if the protagonist fails.
-- Escalation: Each new beat should increase pressure, reveal information, or change the situation.
-- Payoff: The ending should resolve, reverse, or meaningfully echo the opening.
+- **One Subject, One Goal, One Turn:** Every story needs a concrete protagonist want, an escalating obstacle, and a payoff that resolves or echoes the opening.
+- **Hook in the First 3 Seconds:** Open *in medias res* on visual contrast, an active rule violation, or an unanswered contradiction. Never open with generic greetings ("Hey guys") or aimless walking.
+- **Cut the Extras:** One clear dramatic beat read instantly beats three cluttered subplots. If a beat needs a paragraph of voiceover to explain, restage it visually or cut it.
 
-Keep the central dramatic idea understandable. If the audience cannot explain what is happening after one viewing, simplify the story.
+## 2. The "In This Town..." High-Concept Rule Format
 
-2. The "In This Town..." Story Format
+A distinct, reusable storytelling framework for high-retention Roblox Shorts (alongside mystery, comedy, horror, drama, and emotional genres—never mandatory for every story):
 
-This is a reusable format for rule-based Roblox stories. It is optional, not a requirement for every video.
+1. **High-Concept Town Rule (`0:00–0:03`):** Introduce an unusual, concrete, memorable rule that defines the town (e.g., *"In this town, every secret you say out loud turns into a gray mouse"* or *"Every Tuesday at noon, the floor turns into lava"*).
+2. **Rapid-Fire Visual World-Building:** Show 2–4 escalating, visually distinct examples of how townspeople adapt to the rule (small vs. large consequences, absurd habits, town policies).
+3. **Protagonist or Outsider Disruption:** Introduce a character who challenges, misunderstands, or is forced to break the rule (a best friend lost in a blizzard, a new kid who nobody warned, a midnight knock sounding like Dad).
+4. **Escalation Through Consequences:** Push the rule to its extreme—every attempted fix makes the stakes higher or funnier.
+5. **Rule-Based Payoff:** Deliver a twist, emotional peak, or deadpan reversal that **directly exploits the original town rule** (shouting a deeply personal secret to summon a giant rescue mouse; realizing the "lava" is orange paint; breaking the door rule to escape an imposter already inside).
 
-Narrative structure
+**Why This Format Works Narratively:** It delivers immediate premise comprehension in under 3 seconds, sustains curiosity through visual variety and escalating absurdity, and earns high satisfaction because the ending feels inevitable once the opening rule is exploited.
 
-1. The rule (0–3 seconds): Introduce an unusual town rule immediately.
-2. World-building: Show how residents behave because of the rule.
-3. Disruption: Introduce a protagonist who challenges, breaks, or misunderstands the rule.
-4. Escalation: Show increasingly important consequences.
-5. Payoff: Deliver a twist, consequence, reversal, or emotional resolution connected to the original rule.
+## 3. Other Runtime Spines
 
-The format can support comedy, suspense, horror, mystery, or emotional storytelling.
+- **Ultra-Short (15–30s):** 1 location, 2–3 tight beats (Immediate Friction -> Escalation/Snap -> Payoff). Keep spoken words lean (~25–65 words).
+- **Standard Short (45–60s):** 4-part spine (~90–130 words): Opening Hook (`0:00–0:03`) -> Escalation (new turn every 3–5s) -> Turn or Emotional Shift -> Payoff & Button.
+- **Mini-Movie / Episodic (3–10+ min):** Three-Act architecture:
+  - *Act 1 (Inciting Disruption):* Protagonist desire, relationship dynamic, and disruption within 15–30s.
+  - *Act 2 (Rising Stakes & Midpoint Reversal):* 2–3 escalating obstacles driven by character choices, midpoint shift, and low point.
+  - *Act 3 (Climax & Aftermath):* Decisive choice and resonant closing image.
 
-Rule design
+## 4. Character Development & Dialogue Craft
 
-A useful town rule should be:
+- **Goal, Flaw, Relationship:** Give every central character an immediate want, a readable trait (overconfidence, curiosity, stubborn loyalty), and clear friction.
+- **Visual Silhouette & Wardrobe Contrast:** Differentiate characters immediately through color palette, silhouette, posture, and signature accessories so viewers track them effortlessly at small screen sizes.
+- **Subtext Over Exposition:** Replace verbal labels ("I'm terrified") with physical staging (freezing mid-step, backing away from a doorway, leaving a question unanswered). Write short, speakable lines.
 
-- Easy to understand.
-- Visually demonstrable.
-- Capable of creating conflict.
-- Consistent enough that the audience understands its consequences.
-- Flexible enough to support escalation and a satisfying ending.
+## 5. Genre Direction & Anti-Cliché Standards
 
-Avoid rules that are unusual only in wording but produce no meaningful story.
-
-3. Hooks and Retention
-
-The opening should create a question the audience wants answered.
-
-Useful hook approaches:
-
-- Impossible situation: Show something that should not happen.
-- Unusual rule: Introduce a strange condition governing the town.
-- Immediate consequence: Begin with the result of a mistake.
-- Character dilemma: Show someone facing a difficult choice.
-- Mystery: Present an unexplained event that the story will investigate.
-
-Do not rely on loud dialogue or exaggerated claims alone. The opening image and situation should communicate curiosity.
-
-Retention principles
-
-- Introduce the central premise early.
-- Remove repeated explanations.
-- Give each scene a new purpose.
-- Use visual changes to maintain attention.
-- Reframe the audience's understanding when the story needs a new turn.
-- Make the ending worth the time spent watching.
-
-A retention beat should advance the story, not exist only to delay the answer.
-
-4. Character Development
-
-Give each important character:
-
-- A clear immediate goal.
-- A recognizable personality.
-- A reason for their decisions.
-- A relationship to the central conflict.
-- A distinct visual or behavioral identity.
-
-Characters should reveal personality through choices and actions rather than long explanations.
-
-Character contrast
-
-Create useful contrast through:
-
-- Confidence versus uncertainty.
-- Honesty versus deception.
-- Patience versus impulsiveness.
-- Authority versus vulnerability.
-- Different interpretations of the same event.
-
-Avoid making every character speak with the same voice or react in the same way.
-
-5. Conflict and Escalation
-
-Escalation means the situation changes and becomes more consequential.
-
-Possible escalation patterns:
-
-- A small mistake creates a larger problem.
-- A character discovers that the original explanation was incomplete.
-- A simple rule has an unexpected consequence.
-- A character's solution creates a new obstacle.
-- A personal conflict affects the wider town.
-
-Each escalation should follow logically from what came before.
-
-Do not add random events simply to make the story louder or more chaotic.
-
-6. Dialogue and Narration
-
-Dialogue should sound natural and reveal character, intention, or conflict.
-
-- Keep lines concise when the scene is moving quickly.
-- Use subtext when a character's real intention differs from their words.
-- Avoid explaining information the audience can already see.
-- Give characters distinct speech patterns.
-- Let pauses and silence carry meaning when appropriate.
-
-Narration should clarify important context, transitions, or information that cannot be communicated efficiently through visuals.
-
-Do not narrate every action on screen.
-
-7. Genre Direction
-
-Comedy
-
-Build a clear expectation, then break it in an understandable way. Use contrast, timing, reactions, and escalation. Avoid relying entirely on random behavior.
-
-Suspense
-
-Control what the audience knows. Use uncertainty, anticipation, spatial composition, and delayed information. Make the eventual reveal understandable.
-
-Horror
-
-Build unease through atmosphere, anticipation, sound, visual framing, and meaningful threat. Avoid using constant jumpscares as a substitute for storytelling.
-
-Mystery
-
-Present clues fairly. Give the audience enough information to form theories, then reveal how the clues connect.
-
-Emotional drama
-
-Establish what matters to the characters. Let emotional consequences grow from decisions and relationships. Avoid forcing emotion through speeches alone.
-
-8. Twists and Payoffs
-
-A satisfying twist should:
-
-- Be connected to information already established.
-- Change how the audience understands an earlier event.
-- Feel surprising but retrospectively logical.
-- Resolve or deepen the central conflict.
-
-A twist is not automatically effective because it is unexpected.
-
-Avoid introducing a completely unrelated explanation in the final seconds.
-
-9. Anti-Cliché Review
-
-Before approving a premise, challenge it:
-
-- Have audiences seen this exact setup many times?
-- Is the protagonist making meaningful decisions?
-- Could the story happen in almost any setting without changing?
-- Does the Roblox town environment contribute to the story?
-- Is the twist predictable?
-- Does the ending deliver what the opening promises?
-
-If an idea is familiar, find a more specific character motivation, unusual consequence, distinctive visual situation, or stronger point of view.
-
-10. Final Story Test
-
-Before moving into production, confirm:
-
-1. Can the premise be explained in one sentence?
-2. Is the protagonist's goal clear?
-3. Is the obstacle meaningful?
-4. Does the story escalate logically?
-5. Does every major scene change something?
-6. Is the ending connected to the opening?
-7. Can the story be communicated visually?
-8. Is the concept original enough to justify making?
-
-If something fails, revise the story before adding production complexity.
+- **Comedy:** Expectation vs. result, deadpan stillness after absurdity, and cutting immediately after the punchline.
+- **Mystery & Suspense:** Plant 1–2 fair visual clues before the reveal so attentive viewers piece it together half a second ahead.
+- **Horror:** Dread through doorway spill light, silhouettes, negative space, and sound contrast rather than muddy pitch-black rooms or cheap jumpscares.
+- **Drama & Emotional Stories:** Difficult choices, spatial separation across doorways or streets, and pockets of silence where the image speaks.
+- **Anti-Cliché Ban:** Reject autopilot tropes ("poor noob instantly becomes billionaire," "mean popular clique gets generic karma," robotic moralizing narrator summaries) unless deliberately inverted.
