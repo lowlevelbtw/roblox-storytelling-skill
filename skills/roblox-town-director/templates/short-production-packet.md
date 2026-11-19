@@ -1,153 +1,35 @@
+# Short Production Packet Template (Vertical Short)
 
-# Short Production Packet Template
+Keep this packet compact and scannable. Scale timestamps and sections to the target runtime (e.g., 15s, 30s, 45–60s) and adapt technical notes strictly to the creator's production method and setup.
 
-Use this template for Roblox narrative Shorts and other short-form stories. Keep it proportional to the project's complexity. Do not force unnecessary sections into a simple production.
+## 1. Story, Production Method & Dual-Gate Verdict
+- **Production Method Required:** [Live Gameplay Staging / Custom Roblox Animation / Hybrid-External] *(list exact required capabilities + lower-resource alternative if needed)*
+- **Experience & Setup:** [Chosen Game or labeled assumption | Cast size & recording/animation environment]
+- **Visual Direction Note:** [Core framing style, lighting contrast, and wardrobe/silhouette contrast]
+- **Gate A (Story & Creative Quality):** Hook (`RATING` — reason) | Clarity (`RATING` — reason) | Character & Escalation (`RATING` — reason) | Originality (`RATING` — reason) | Payoff (`RATING` — reason)
+- **Gate B (Production Feasibility):** Production Method Match (`RATING` — reason) | Cast/Coordination (`RATING` — reason) | Blocking/Actions (`RATING` — reason) | Experience Capabilities (`RATING` — reason) | Post/Audio Scope (`RATING` — reason)
 
-## 1. Project Overview
+## 2. Final Script, Visual Intent, Captions & Sound Timing
+Align visual action, spoken lines, burned-in captions (for muted viewing), and audio cues to exact non-overlapping timestamps:
+- **Opening Hook (`0:00–0:03`):** [Visual action] | [VO/Dialogue] | [Caption] | [Audio cue]
+- **Escalation / World-Building:** [Visual action] | [VO/Dialogue] | [Caption] | [Audio cue]
+- **Disruption / Turn / Shift:** [Visual action] | [VO/Dialogue] | [Caption] | [Audio cue]
+- **Payoff & Button:** [Visual action] | [VO/Dialogue] | [Caption] | [Audio cue]
 
-- **Working Title:**
-- **Genre:**
-- **Target Runtime:**
-- **Aspect Ratio:** 9:16 vertical by default for Shorts; use another format when requested.
-- **Roblox Experience / Environment:** State the chosen experience or mark it UNDECIDED.
-- **Cast:** Number of performers and whether the production is solo, helper-assisted, or multi-actor.
+## 3. Characters, Continuity Lock & Pre-Shoot Check
+- **Characters & Wardrobe Contrast:** [Goals/traits + distinct silhouettes]
+- **Locations, Lighting & Prop Fallback:** [1–2 locations, time-of-day lock, prop or static overlay fallback]
+- **1-Min In-Game Check (if Live Gameplay Staging):** [Verify any `UNVERIFIED` door, prop, or interaction]
 
-## 2. Concept and Story
+## 4. Scene & Shot Plan (In Recording / Render Order)
+*(Record enough additional footage to allow clean editing. Recommend 2–3 seconds of handles where practical, but adapt to the shot and recording method.)*
 
-- **Core Premise:** Explain the story in one or two sentences.
-- **Protagonist:** Who is the story about?
-- **Goal:** What does the protagonist want?
-- **Obstacle:** What prevents them from getting it?
-- **Stakes:** What changes if they fail?
-- **Escalation:** How does the situation become more difficult?
-- **Payoff:** What resolves or reinterprets the opening?
+- **Take / Shot 1 (Raw [X]s → Edit [Y]s, `[0:00–...]`):** [Cinematic framing + plain-language placement + stationary fallback] | **Blocking / Action:** [Avatar action + floor landmark or rig/scene cue]
 
-For an "In This Town..." story, state the town's central rule and show how its consequences drive the plot. Do not force this format onto unrelated concepts.
+## 5. Execution, Editing & Sound Plan (Environment-Adapted)
+- **Capture / Render:** [Capture or animation method suited to the creator's setup + brief technical test clip]
+- **Editing & 4-Layer Sound:** [Radio-edit assembly, cut rhythm, overlays, strategic silence, and brief test export]
 
-## 3. Production Method and Feasibility
-
-Select the actual production method:
-
-- **Live Gameplay Staging:** Actions and camera work achievable within a Roblox experience during ordinary gameplay.
-- **Custom Roblox Animation:** Requires Roblox Studio, custom rigs, authored animation, scripted effects, or comparable capabilities.
-- **Hybrid / External Production:** Requires external animation, compositing, 2D overlays, Blender, or other outside tools.
-
-List:
-- Required capabilities, assets, locations, props, and character actions.
-- Features that are verified.
-- Features marked **UNVERIFIED**, with a quick test and a practical fallback.
-- A lower-resource alternative for demanding scenes.
-
-Never describe custom animation as ordinary live gameplay.
-
-## 4. Dual-Gate Assessment
-
-**Gate A — Story and Creative Quality**
-- Opening hook (0–3 seconds):
-- Premise and stakes clarity:
-- Character and escalation:
-- Originality:
-- Payoff:
-
-**Verdict:** STRONG / NEEDS WORK / FAIL
-
-**Reason:**
-
-**Gate B — Production Feasibility**
-- Production method match:
-- Cast and coordination:
-- Avatar blocking and actions:
-- Environment, props, and verified features:
-- Editing and sound requirements:
-
-**Verdict:** STRONG / NEEDS WORK / FAIL
-
-**Reason:**
-
-A FAIL must trigger a rewrite, simpler staging option, or practical workaround—not a dead end.
-
-## 5. Script and Timeline
-
-| Time | Visual Action | Dialogue / Voiceover | Sound |
-|---|---|---|---|
-| 0:00–0:03 | Opening image and hook | | |
-| | | | |
-| | | | |
-| | | | |
-| Final beat | Payoff / ending | | |
-
-Keep the script concise and make the story understandable without relying entirely on dialogue.
-
-## 6. Scene and Shot Plan
-
-For each important shot, specify:
-
-- **Shot ID and Timestamp:**
-- **Location:**
-- **Shot Size / Camera Position:**
-- **Character Blocking:** Where characters stand, move, look, and interact.
-- **Action:** What visibly happens.
-- **Dramatic Purpose:** Why this shot matters.
-- **Lighting and Composition:**
-- **Continuity:** Wardrobe, prop states, screen direction, and character positions.
-- **Sound Cue:**
-- **Raw Duration → Edited Duration:**
-
-Record enough extra footage for clean edits. Two to three seconds of additional footage can help where practical, but this is a recommendation, not a universal requirement.
-
-## 7. Recording / Animation Execution
-
-- Group shots by location or setup when that improves continuity.
-- Test camera framing, character movement, stability, and audio before full production.
-- Record or render difficult actions separately when needed.
-- Capture alternate takes for important emotional or visual moments.
-- Check wardrobe, character positions, lighting, and prop states between shots.
-- Adapt the session plan to the actual hardware, tools, and cast schedule.
-
-## 8. Editing and Sound Design
-
-**Editing**
-- Assemble the story in narrative order.
-- Tighten dialogue and remove unnecessary pauses.
-- Cut on meaningful actions and reactions.
-- Use transitions only when they serve the story.
-- Check pacing against the target runtime.
-
-**Four sound layers**
-1. Dialogue / Voiceover
-2. Ambience
-3. Foley / Sound Effects
-4. Music / Strategic Silence
-
-Align sound cues with the exact visual events. Check that silence and sound effects do not contradict the timeline. Use properly licensed audio.
-
-## 9. Captions and Accessibility
-
-- Include readable captions for important dialogue and story information.
-- Keep text clear of platform interface areas.
-- Make the visual story understandable with sound muted.
-- Avoid overcrowding the frame with text.
-
-## 10. Packaging and Quality Control
-
-**Title Options**
-1.
-2.
-3.
-
-**Recommended Title:**
-
-**Thumbnail / First Frame:** Describe the central subject, emotional expression, visual contrast, and any short text.
-
-**Stage L Final Check**
-- Story is clear and has a meaningful payoff.
-- Opening hook arrives quickly.
-- Production method matches the required capabilities.
-- Unverified features have been tested or replaced.
-- Characters, props, locations, and screen direction remain consistent.
-- Editing handles are sufficient for clean cuts where needed.
-- Dialogue, sound effects, music, and silence are correctly aligned.
-- Captions are readable and the story works without sound.
-- Title and thumbnail honestly represent the finished video.
-
-**Next Physical Action:** State the single most useful thing the creator should do next.
+## 6. Packaging & Stage L QC Checklist
+- **3 Title Options** + **Recommended Title** + **First-Frame (`0:00`) / Thumbnail Concept**
+- **Stage L QC Pass:** [ ] Production method and required capabilities honestly classified [ ] 0–3s visual+verbal hook [ ] Subtext/visual staging over exposition [ ] Practical editing handles planned [ ] Sound timestamps aligned [ ] Muted-viewing captions [ ] Continuity locked [ ] Honest packaging
